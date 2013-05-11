@@ -1,0 +1,5 @@
+css=/git-css/cgit.css
+logo=/git-css/cgit.png
+scan-path=/srv/git/
+clone-prefix=git://192.168.1.126, ssh://192.168.1.126/srv/git
+virtual-root=/
